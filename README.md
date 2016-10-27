@@ -1,6 +1,6 @@
-Lab 5
+Simplicipe
 ====
 
-Lab 5 for Intro HCI: Integrating frontend and backend
+Recipe website
 
-Originally created by Scott Klemmer, Michael Bernstein, and a coalition of TAs. This version forked from https://github.com/IntroHCI/lab4 and modified by Philip Guo.
+Originally created and adapted by Scott Klemmer, Michael Bernstein, Philip Guo and a coalition of TAs. This version forked from https://github.com/pgbovine/lab5 and modified to fit by Nirmit, Chris and Michael.
